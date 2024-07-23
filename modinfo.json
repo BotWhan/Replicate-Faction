@@ -15,9 +15,6 @@
   	 "unit",
    	 "expansion"
 	],
-	"dependencies": [
-		"com.pa.ferretmaster.commander-merge"
-	],
 	"scenes": {
 		"shared_build": [
 			"coui://ui/mods/pa.mla.unit.replicate/shared_build.js"
