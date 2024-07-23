@@ -1,0 +1,30 @@
+ {
+	"identifier": "pa.mla.unit.replicate",
+	"display_name": "Replicate",
+	"description": "Adds a small, robot faction.",
+	"author": "Bot, Taiga, Bill",
+	"signature": "not yet implemented",
+	"forum": "",
+	"priority": 95,
+	"icon": "coui://icon.png",
+	"titansOnly": true,
+	"category": [
+	 "titans",
+   	 "in-game",
+   	 "server",
+  	 "unit",
+   	 "expansion"
+	],
+	"scenes": {
+		"shared_build": [
+			"coui://ui/mods/pa.mla.unit.replicate/shared_build.js"
+		],
+		"icon_atlas": [
+			"coui://ui/mods/pa.mla.unit.replicate/icon_atlas.js"
+		]
+	},
+	"context": "server",
+	"date": "2024-07-22",
+	"build": "115958",
+	"version": "0.5"
+}
