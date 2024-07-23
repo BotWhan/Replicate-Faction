@@ -83,7 +83,7 @@
         "build_end": "/pa/units/addon/factory_1/factory_1_end.papa"
       },
       "animtree": "/pa/units/addon/factory_1/factory_1_anim_tree.json",
-      "skirt_decal": "/pa/effects/specs/skirt_01.json"
+      "skirt_decal": "/pa/effects/specs/skirt_energy_adv.json"
     }
   ],
   "tools": [
